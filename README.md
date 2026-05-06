@@ -140,19 +140,4 @@ Les captures sont disponibles dans `capture/`:
 - `script envoi des données.png`
 - `token.png`
 
-## Fichiers à ajouter ou garder
 
-Déjà utiles dans ce dépôt:
-
-- `script/requirements.txt` pour figer les dépendances Python
-- `script/.env.example` pour documenter les variables d'environnement sans exposer les secrets
-
-À garder localement et hors git:
-
-- `script/.env`
-
-## Remarques
-
-- Je n'ai pas modifié `sensor_simulator.py`.
-- Je n'ai pas modifié le fichier `.env` existant.
-- Le README a été réécrit pour correspondre à la structure réelle du dépôt.
